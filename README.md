@@ -2,6 +2,12 @@
 
 **Summary:** I & my mom were attempted to killed earlier this year, authorities are treating us as accused, instead of victim. We are depressed & under so much mental pressure. Don't have any hopes of justice left from the system, personal & professional life is ruined. Looking upto social media with the hope of support which may lead to justice. Please support 🙏.
 
+> Please share below social media posts:
+> X : [Link](https://x.com/aryanroyal/status/1831311649057513829)
+> LinkedIn : [Link](https://www.linkedin.com/posts/ashishvishwakarma-ashv_help-me-activity-7237069916833472513-v3a7)
+> Facebook : [Link](https://www.facebook.com/vishwa.ashish/posts/pfbid02oYL23eFCGsL7xn8aQNQ9Y2HRB1auyvTPsmUWwvpUjP8ahvzmCjKLrd2VNd2EpbMGl)
+> GitHub : [Link](https://github.com/AshV/helpme)
+
 ![Ashish Vishwakarma needs your support 🙏](incident.jpeg)
 
 I must speak before I just disappear(or get killed) one day suddenly or commit suicide under pressure of goons. I don't know the consequences in my professional life. But sharing  it, because when life itself will end, how will I prepend "professional" to it. 
@@ -23,3 +29,23 @@ These photos are in no where in records of police. Visiting SP, raising IGRS, al
 Please support by spreading the words.
 
 🙏
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ashish-vishwakarma.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
